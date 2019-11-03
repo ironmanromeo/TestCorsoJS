@@ -1,2 +1,0 @@
-# TestCorsoJS
-Created with CodeSandbox
